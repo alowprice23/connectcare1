@@ -1,6 +1,6 @@
 # Databutton app
 
-This is a schedulin app for home cares that uses advanced genetic algorithms to parse through scheduling with an advanced front and backend.
+This is a scheduling app for home cares that uses advanced genetic algorithms to parse through scheduling with an advanced front and backend.
 
 ## Stack
 
