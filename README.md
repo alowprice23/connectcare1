@@ -1,6 +1,6 @@
 # Databutton app
 
-This project consists of a FastAPI backend server and a React + TypeScript frontend application exported from Databutton.
+This is a schedulin app for home cares that uses advanced genetic algorithms to parse through scheduling with an advanced front and backend.
 
 ## Stack
 
